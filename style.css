@@ -60,3 +60,26 @@
     margin-left: 5px;
     margin-right: 5px;
 }
+
+#footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.first-footer{
+    margin-left: 20px;
+}
+
+.second-footer .left{
+    float: left;
+}
+
+.second-footer .right{
+    float:right;
+}
+
+.margin-footer{
+    float: right;
+}
