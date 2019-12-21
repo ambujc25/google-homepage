@@ -83,3 +83,18 @@
 .margin-footer{
     float: right;
 }
+
+.result-nav{
+    margin: 0 0;
+    background-color: rgb(228, 228, 228);
+}
+
+body{
+    margin: 0;
+}
+
+.top-left-logo img{
+    width: 100px;
+    height: 40px;
+    float:left;
+}
